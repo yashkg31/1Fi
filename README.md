@@ -1,2 +1,2 @@
-to start backend: npm start <br>
-to start frontend: npm run start
+to start backend: npm i; npm start <br>
+to start frontend: npm i; npm run start
